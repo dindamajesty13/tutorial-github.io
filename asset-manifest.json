@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tutorial-github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tutorial-github.io/static/js/main.27a93d71.chunk.js",
+    "main.js.map": "/tutorial-github.io/static/js/main.27a93d71.chunk.js.map",
+    "runtime-main.js": "/tutorial-github.io/static/js/runtime-main.37286f0c.js",
+    "runtime-main.js.map": "/tutorial-github.io/static/js/runtime-main.37286f0c.js.map",
+    "static/js/2.4b2b15f6.chunk.js": "/tutorial-github.io/static/js/2.4b2b15f6.chunk.js",
+    "static/js/2.4b2b15f6.chunk.js.map": "/tutorial-github.io/static/js/2.4b2b15f6.chunk.js.map",
+    "static/js/3.caa2a3f2.chunk.js": "/tutorial-github.io/static/js/3.caa2a3f2.chunk.js",
+    "static/js/3.caa2a3f2.chunk.js.map": "/tutorial-github.io/static/js/3.caa2a3f2.chunk.js.map",
+    "index.html": "/tutorial-github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tutorial-github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4b2b15f6.chunk.js.LICENSE.txt": "/tutorial-github.io/static/js/2.4b2b15f6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tutorial-github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37286f0c.js",
+    "static/js/2.4b2b15f6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.27a93d71.chunk.js"
+  ]
+}
